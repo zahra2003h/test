@@ -1,0 +1,6 @@
+line is 1
+line is 2
+commit 6
+line is 4
+line is 5
+commit 7
